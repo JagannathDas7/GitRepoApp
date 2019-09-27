@@ -4,5 +4,6 @@ class Test{
 }
 public void wishMessage(){
    System.out.println("welcome to git");
+    System.out.println("welcome to git");
 }
 }
